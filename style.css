@@ -1,0 +1,13 @@
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+a {
+  font-weight: bold;
+}
+img {
+  box-shadow: 12px 12px 2px 1px #c1b7b7;
+}
+.fiftyleft{
+    width:45%;float: left;
+}
